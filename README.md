@@ -49,3 +49,15 @@ QR Pop makes it easy to create QR codes that do not look like an afterthought. A
 
 
 **Tech:** HTML · CSS · JavaScript · QR Code Styling · GSAP · Canvas Confetti
+
+
+### 🎉 Social Card Studio
+
+A playful, browser-based Open Graph and social preview image builder.
+
+Social Card Studio makes it easy to create polished 1200×630 social sharing images without needing design software. Customize layouts, colours, patterns, background images, logos, and typography, then export a PNG and copy the matching Open Graph and X meta tags.
+
+[View Repository](https://github.com/dottDesign/OG-Social-Preview-Builder) · [Live Demo](https://dottdesign.github.io/OG-Social-Preview-Builder/)
+
+
+**Tech:** HTML · CSS · JavaScript · GSAP · html2canvas · Canvas Confetti · GitHub Pages
