@@ -34,6 +34,18 @@ A responsive recipe management web app for organizing, searching, and managing a
 
 A GA4-aligned campaign URL builder designed to standardize UTM tracking and improve marketing attribution across digital channels.
 
-**Tech:** HTML · CSS · JavaScript · GA4
+**Tech:** HTML · CSS · JavaScript · GA4 · GSAP · Canvas Confetti
 
 [View Repository](https://github.com/dottDesign/UTM-Generator) · [Live Demo](https://dottdesign.github.io/UTM-Generator/)
+
+
+### 🎉 QR Pop
+
+A playful, customizable browser-based QR code generator.
+
+QR Pop makes it easy to create QR codes that do not look like an afterthought. Add a URL or text, customize the modules and finder eyes, choose your colours, add a logo, and export a high-resolution PNG.
+
+[View Repository](https://github.com/dottDesign/QR-Pop) · [Live Demo](https://dottdesign.github.io/QR-Pop/)
+
+
+**Tech:** HTML · CSS · JavaScript · QR Code Styling · GSAP · Canvas Confetti
