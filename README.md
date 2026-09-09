@@ -20,7 +20,7 @@ GA4-aligned campaign URL builder designed to standardize marketing attribution.
 Web application for baseball coaches to manage teams, lineups,
 player usage and game-day workflows.
 
-→ Repository
+[View Repository](https://github.com/dottDesign/BenchBuddy-Git) | [Live Demo]([https://example.com](https://benchbuddy.devworks.space/))
 
 ### Accessibility Checker
 Web accessibility auditing tool designed to identify common WCAG issues.
@@ -37,6 +37,6 @@ large web properties.
 
 ## What I Work With
 
-HTML • CSS • JavaScript • PHP • MySQL
+HTML • CSS • JavaScript • PHP • GSAP • MySQL
 WordPress • GA4 • GitHub • REST APIs
-UX • Accessibility • SEO • Digital Analytics
+UX • Accessibility • SEO • Digital Analytics 
