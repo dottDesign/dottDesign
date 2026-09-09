@@ -1,16 +1,42 @@
-## Hi there 👋
+# Derrick Ottenbreit
 
-<!--
-**dottDesign/dottDesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web & Digital Experience Manager | Front-End Developer | Digital Product Builder
 
-Here are some ideas to get you started:
+I design and build digital experiences that combine web development,
+UX, analytics, accessibility and marketing technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work focuses on turning real operational and marketing problems
+into practical digital tools.
+
+## Featured Projects
+
+### UTM Campaign Generator
+GA4-aligned campaign URL builder designed to standardize marketing attribution.
+
+→ Live Demo
+→ Repository
+
+### BenchBuddy
+Web application for baseball coaches to manage teams, lineups,
+player usage and game-day workflows.
+
+→ Repository
+
+### Accessibility Checker
+Web accessibility auditing tool designed to identify common WCAG issues.
+
+→ Live Demo
+→ Repository
+
+### Broken Link Checker
+Website QA utility for identifying broken links and maintaining
+large web properties.
+
+→ Live Demo
+→ Repository
+
+## What I Work With
+
+HTML • CSS • JavaScript • PHP • MySQL
+WordPress • GA4 • GitHub • REST APIs
+UX • Accessibility • SEO • Digital Analytics
