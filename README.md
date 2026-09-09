@@ -1,18 +1,16 @@
 # Derrick Ottenbreit
 
-### Web & Digital Experience Manager | Front-End Developer | Digital Product Builder
+### Web & Digital Experience Manager · Front-End Developer · Digital Product Builder
 
-I design and build digital experiences that combine web development,
-UX, analytics, accessibility and marketing technology.
+I design and build digital experiences that combine **web development, UX, analytics, accessibility, and marketing technology**.
 
-My work focuses on turning real operational and marketing problems
-into practical digital tools.
+My work focuses on turning real operational and marketing challenges into practical, user-friendly digital tools. I enjoy building things that solve actual problems, whether that's improving a marketing workflow, simplifying campaign tracking, or helping a baseball coach manage a team.
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### ⚾ BenchBuddy
 
-A baseball team management application designed to help coaches manage rosters, lineups, player usage, game-day decisions, and team administration.
+A baseball team management platform built for coaches to manage rosters, lineups, player usage, game-day decisions, and team administration in one place.
 
 **Tech:** PHP · MySQL · JavaScript · CSS
 
@@ -22,7 +20,7 @@ A baseball team management application designed to help coaches manage rosters, 
 
 ### 🍳 Recipe Library
 
-A responsive recipe management web app for organizing, searching, and managing a personal recipe collection.
+A responsive recipe management application for organizing, searching, and maintaining a personal recipe collection.
 
 **Tech:** PHP · MySQL · JavaScript · CSS
 
@@ -30,9 +28,11 @@ A responsive recipe management web app for organizing, searching, and managing a
 
 ---
 
-### 📊 UTM Campaign Generator
+### 🧪 UTM Lab
 
-A GA4-aligned campaign URL builder designed to standardize UTM tracking and improve marketing attribution across digital channels.
+A GA4-friendly campaign URL builder that makes creating clean, consistent UTM tracking links fast and straightforward.
+
+Build campaign URLs using presets, automatic normalization, live validation, saved values, and copy-ready tracking links.
 
 **Tech:** HTML · CSS · JavaScript · GA4 · GSAP · Canvas Confetti
 
@@ -42,24 +42,61 @@ A GA4-aligned campaign URL builder designed to standardize UTM tracking and impr
 
 ### 🎉 QR Pop
 
-A playful, customizable browser-based QR code generator.
+A playful, customizable browser-based QR code generator that makes QR codes feel like part of the design instead of an afterthought.
 
-QR Pop makes it easy to create QR codes that do not look like an afterthought. Add a URL or text, customize the modules and finder eyes, choose your colours, add a logo, and export a high-resolution PNG.
-
-[View Repository](https://github.com/dottDesign/QR-Pop) · [Live Demo](https://dottdesign.github.io/QR-Pop/)
-
+Customize module and finder-eye styles, colours, error correction, logos, and sizing, then export a high-resolution PNG.
 
 **Tech:** HTML · CSS · JavaScript · QR Code Styling · GSAP · Canvas Confetti
 
+[View Repository](https://github.com/dottDesign/QR-Pop) · [Live Demo](https://dottdesign.github.io/QR-Pop/)
+
 ---
 
-### 🎉 Social Card Studio
+### 🎨 Social Card Studio
 
-A playful, browser-based Open Graph and social preview image builder.
+A browser-based Open Graph and social preview builder for creating polished **1200 × 630** social sharing images.
 
-Social Card Studio makes it easy to create polished 1200×630 social sharing images without needing design software. Customize layouts, colours, patterns, background images, logos, and typography, then export a PNG and copy the matching Open Graph and X meta tags.
+Customize layouts, colours, patterns, backgrounds, logos, and typography, then export a production-ready PNG and generate the matching Open Graph and X meta tags.
+
+**Tech:** HTML · CSS · JavaScript · GSAP · html2canvas · Canvas Confetti
 
 [View Repository](https://github.com/dottDesign/OG-Social-Preview-Builder) · [Live Demo](https://dottdesign.github.io/OG-Social-Preview-Builder/)
 
+---
 
-**Tech:** HTML · CSS · JavaScript · GSAP · html2canvas · Canvas Confetti · GitHub Pages
+## 🛠 What I Work With
+
+**Front End**  
+HTML · CSS · JavaScript · GSAP · Responsive Design
+
+**Back End**  
+PHP · MySQL · REST APIs
+
+**Web & CMS**  
+WordPress · GitHub · GitHub Pages
+
+**Digital Experience**  
+UX · Accessibility · SEO · Information Architecture · Web Performance
+
+**Analytics & Marketing Technology**  
+GA4 · Google Tag Manager · UTM Strategy · Conversion Tracking
+
+---
+
+## 💡 How I Build
+
+I like building tools around a simple principle:
+
+> **Solve a real problem. Keep the experience simple. Make it enjoyable to use.**
+
+Most of my projects start with a workflow that is repetitive, frustrating, or more complicated than it needs to be. I use development, UX, and automation to turn those workflows into focused digital products.
+
+---
+
+## 👋 About Me
+
+I'm a web and digital experience professional based in British Columbia, Canada, with experience spanning **web development, digital strategy, UX, analytics, accessibility, SEO, and marketing technology**.
+
+Alongside my professional work, I build independent tools and applications through **dottDesign**, using personal projects as an opportunity to experiment with new technologies, interaction patterns, and better ways to solve everyday problems.
+
+### 🔗 [View My Portfolio](https://dottdesign.github.io/portfolio/)
