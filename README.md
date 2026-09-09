@@ -13,8 +13,8 @@ into practical digital tools.
 ### UTM Campaign Generator
 GA4-aligned campaign URL builder designed to standardize marketing attribution.
 
-→ Live Demo
-→ Repository
+[View Repository](https://github.com/dottDesign/UTM-Generator/tree/main) | [Live Demo](https://dottdesign.github.io/UTM-Generator/)
+
 
 ### BenchBuddy
 Web application for baseball coaches to manage teams, lineups,
@@ -22,18 +22,7 @@ player usage and game-day workflows.
 
 [View Repository](https://github.com/dottDesign/BenchBuddy-Git) | [Live Demo](https://benchbuddy.devworks.space)
 
-### Accessibility Checker
-Web accessibility auditing tool designed to identify common WCAG issues.
 
-→ Live Demo
-→ Repository
-
-### Broken Link Checker
-Website QA utility for identifying broken links and maintaining
-large web properties.
-
-→ Live Demo
-→ Repository
 
 ## What I Work With
 
