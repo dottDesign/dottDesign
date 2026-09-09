@@ -38,6 +38,7 @@ A GA4-aligned campaign URL builder designed to standardize UTM tracking and impr
 
 [View Repository](https://github.com/dottDesign/UTM-Generator) · [Live Demo](https://dottdesign.github.io/UTM-Generator/)
 
+---
 
 ### 🎉 QR Pop
 
@@ -50,6 +51,7 @@ QR Pop makes it easy to create QR codes that do not look like an afterthought. A
 
 **Tech:** HTML · CSS · JavaScript · QR Code Styling · GSAP · Canvas Confetti
 
+---
 
 ### 🎉 Social Card Studio
 
