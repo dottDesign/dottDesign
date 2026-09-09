@@ -27,7 +27,7 @@ A responsive recipe management web app built with PHP and MySQL for organizing, 
 
 **Tech:** PHP · MySQL · JavaScript · CSS
 
-[View Repository](https://github.com/dottDesign/recipes-library) · [Live Demo](https://apps.devworks.space/recipes/public)
+[View Repository](https://github.com/dottDesign/recipes-library) · [Live Demo](https://recipe-share.devworks.space/)
 
 ## What I Work With
 
